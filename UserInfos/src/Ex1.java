@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Scanner;
 
-public class Main {
+public class Ex1 {
     public static void main(String[] args) throws IOException {
         String name, fileName, address;
         int age;
